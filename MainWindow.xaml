@@ -4,7 +4,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Pop_Cristina_Lab2"
-        mc:Ignorable="d" Height="475" Width="814" Title="Virtual Doughnuts Factory" ResizeMode="NoResize">
+        mc:Ignorable="d" Height="475" Width="814" Title="Virtual Doughnuts Factory" ResizeMode="NoResize" Loaded="frmMain_Loaded">
     <Window.Background>
         <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.ActiveCaptionColorKey}}"/>
     </Window.Background>
